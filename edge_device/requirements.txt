@@ -1,0 +1,6 @@
+# Python dependencies for Raspberry Pi Emotion Detection
+AWSIoTPythonSDK
+opencv-python-headless  # Use headless for server environments without GUI
+tensorflow              # Or tensorflow-lite for optimized Raspberry Pi models
+numpy
+# Add any other libraries your detect_emotions.py script might use (e.g., imutils)
