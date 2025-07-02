@@ -10,7 +10,7 @@ This project develops a secure and scalable prototype for analyzing visitor enga
 
 The system employs a robust Edge-to-Cloud architecture designed for efficiency, scalability, and privacy.
 
-**![image](https://github.com/user-attachments/assets/c1737b51-e2df-4877-9a74-b193e46a4212) **
+![image](https://github.com/user-attachments/assets/c1737b51-e2df-4877-9a74-b193e46a4212) 
 
 **Key Components:**
 
