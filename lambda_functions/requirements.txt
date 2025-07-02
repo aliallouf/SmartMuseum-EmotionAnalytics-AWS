@@ -1,0 +1,5 @@
+# Python dependencies for AWS Lambda functions
+# boto3 is typically pre-installed in Lambda runtimes,
+# boto3==1.x.x
+# No other specific external libraries detected from your Lambda code snippets.
+# If you add any, list them here.
